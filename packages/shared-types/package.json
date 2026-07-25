@@ -1,0 +1,13 @@
+{
+  "name": "@kaamorax/shared-types",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": {
+    "lint": "eslint src/**/*.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3",
+    "@kaamorax/tsconfig": "*"
+  }
+}
